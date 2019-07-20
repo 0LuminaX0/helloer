@@ -1,5 +1,6 @@
 # Programm data
 data  = {
     "Name":"Leha",
-    "surname" : "Lender"
+    "surname" : "Lender",
+    "age": 10
     }
