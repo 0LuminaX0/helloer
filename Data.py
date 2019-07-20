@@ -1,2 +1,5 @@
 # Programm data
-data  = {"Name":"Leha", "surname" : "Lender"}
+data  = {
+    "Name":"Leha",
+    "surname" : "Lender"
+    }
